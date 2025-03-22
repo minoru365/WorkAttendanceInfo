@@ -15,4 +15,4 @@ msappはアプリ単独のファイルです。インポート方法は[こち�
 参照列はFloorListを参照
 
 ## アプリ画面
-![image](https://github.com/user-attachments/assets/670f4bee-2a5d-4627-ac74-e601917cd448)
+![image](https://github.com/user-attachments/assets/79018660-09b2-44e1-911f-843487278135)
