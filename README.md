@@ -13,3 +13,6 @@ msappはアプリ単独のファイルです。インポート方法は[こち�
 ![image](https://github.com/user-attachments/assets/a9b56964-8f8f-4248-9ad1-a90b1f85a6fa)
 
 参照列はFloorListを参照
+
+## アプリ画面
+![image](https://github.com/user-attachments/assets/670f4bee-2a5d-4627-ac74-e601917cd448)
